@@ -11,7 +11,7 @@ body {
 #container {
 	width: 750px;
 	margin: 0 auto;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 
 }
  /*Topo*/
@@ -24,7 +24,7 @@ body {
 .logo {
 	width: 152px;
 	height: 66px;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	background: url(../imagens/logo.png) no-repeat left top;
 	text-indent: -3000px;
 }
@@ -120,7 +120,7 @@ body.fotos #navegacao a#fotos {
 
 /*Caixa*/
 .caixa {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	background: #F3F3F3 url(../imagens/fundo-caixa.png);
 	margin:  10px 0;
 	padding: 5px 0 5px 0;
@@ -233,14 +233,14 @@ h3 {
 
 /*Rodapé*/
 #container-rodape {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	clear: both;
 	background: #294C71;
 	padding: 20px 0 20px 0;
 }
 
 #rodape {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	width: 750px;
 	margin: 0 auto;
 	color: white;

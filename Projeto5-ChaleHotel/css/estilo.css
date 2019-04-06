@@ -10,7 +10,7 @@ body {
 }
 
 #container {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	background: #EDE9CC url(../imagens/bg-container.png) top center repeat-y;
 	margin: 0 auto;
 	min-width: 740px;
@@ -35,7 +35,7 @@ body {
 }
 
 .logo a {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	position: absolute;
 	top: 15px;
 	left: 15px;
